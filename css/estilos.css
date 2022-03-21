@@ -1,0 +1,8 @@
+.imagen_alado_texto{
+    float: left;
+}
+.cajas_recomen {
+    content: "";
+    display: block;
+    clear: both;
+ }
